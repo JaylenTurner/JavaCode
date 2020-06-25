@@ -1,1 +1,1 @@
-This is a in-console connect four game I developed
+This is an in-console connect four game I developed
